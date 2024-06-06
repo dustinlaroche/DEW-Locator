@@ -7,9 +7,13 @@ The code configures the two ADC input pins to utilize the FIR filter with 64 coe
 
 <h1>Hardware</h1>
 
-<img src="https://github.com/dustinlaroche/DEW-Locator/blob/main/Hardware/20240601_132526.jpg" />
+<img src="https://github.com/dustinlaroche/DEW-Locator/blob/main/Hardware/Hardware.jpg" />
+
+
+<h1>FFT Plot</h1>
 
 <img src="https://github.com/dustinlaroche/DEW-Locator/blob/main/Plots/Figure_1.png" />
+
 
 <h1>Upsampled to 1GHz</h1>
 
