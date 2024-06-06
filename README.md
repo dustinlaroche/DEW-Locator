@@ -6,3 +6,7 @@ Beginning hardware platform consist of an Adafruit ESP32-C3 that is running ESP-
 The code configures the two ADC input pins to utilize the FIR filter with 64 coeffecients and a continous sample rate of 1MHz. I have the MCU output the ADC values to the USB serial as two comma seperated values. These get saved onto a computer where Python is then used to process them through their own FFT functions that are then plotted to individual plots.
 
 <img src="https://github.com/dustinlaroche/DEW-Locator/blob/main/Plots/Figure_1.png" />
+
+<h1>Upsampled to 1GHz</h1>
+
+<img src="https://github.com/dustinlaroche/DEW-Locator/blob/main/Plots/Python_1GHz_Plot.png" />
