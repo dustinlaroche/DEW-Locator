@@ -18,3 +18,6 @@ The code configures the two ADC input pins to utilize the FIR filter with 64 coe
 <h1>Upsampled to 1GHz</h1>
 
 <img src="https://github.com/dustinlaroche/DEW-Locator/blob/main/Plots/Python_1GHz_Plot.png" />
+
+<h1>Four Quadrant Plot</h1>
+<img src="https://github.com/dustinlaroche/DEW-Locator/blob/main/Plots/plot.png" />
